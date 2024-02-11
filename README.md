@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working as **Full Stack Developer**
 
-- 🌱 I’m currently learning **Cloud (AWS)**
-
-- 💬 Ask me about **Internet Of Things(IoT)**
+- 🌱 I’m currently learning **Cloud (Azure)**
 
 - 📫 How to reach me **prasadsheetal16@gmail.com**
 
@@ -16,7 +14,7 @@
 <p align="left">
 <a href="https://dev.to/prasadsheetal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prasadsheetal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prasadsheetal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasadsheetal" height="30" width="40" /></a>
-<a href="https://instagram.com/_sheetal.prasad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sheetal.prasad_" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/_sheetal.prasad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sheetal.prasad_" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
