@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadsheetal&label=Profile%20views&color=0e75b6&style=flat" alt="prasadsheetal" /> </p>
 
-- 🔭 I’m currently working as **Full Stack Developer**
+- 🔭 I’m currently pursuing **Masters in Computer Science at New York University**
 
-- 🌱 I’m currently learning **Cloud (Azure)**
+- 🌱 I’m currently working as **Full Stack Developer**
 
 - 📫 How to reach me **prasadsheetal16@gmail.com**
 
