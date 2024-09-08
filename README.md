@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently pursuing **Masters in Computer Science at New York University**
 
-- 🌱 I’m currently working as **Full Stack Developer**
-
 - 📫 How to reach me **prasadsheetal16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
