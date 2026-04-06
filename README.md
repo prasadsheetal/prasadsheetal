@@ -247,12 +247,6 @@ class Sheetal:
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prasadsheetal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prasadsheetal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com/?user=prasadsheetal&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
