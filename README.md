@@ -35,9 +35,9 @@
 ```python
 class Sheetal:
     name        = "Sheetal Binodkumar Prasad"
-    role        = ["AI/ML Engineer", "Data Engineer", "Full-Stack SWE"]
+    role        = ["Full-Stack SWE", "AI/ML Engineer", "Data Engineer"]
     education   = "M.S. Computer Science @ NYU  (2024–2026)"
-    experience  = "2+ years @ Splunk (Cisco) & Tata Consultancy Services"
+    experience  = "2+ years @ Tata Consultancy Services & Splunk (Cisco)"
     currently   = "Building LLM-powered systems & scalable data infrastructure"
     seeking     = "Full-time: AI/ML · Data Engineering · SWE — May 2026"
     superpower  = "Turning complex ML research into production-grade systems"
@@ -73,7 +73,7 @@ class Sheetal:
 ## 💼 Experience
 
 <details open>
-<summary><b>🔵 Splunk – Cisco Systems &nbsp;|&nbsp; New York, USA &nbsp;|&nbsp; Sep – Dec 2025</b></summary>
+<summary><b>🔵 Splunk – Cisco Systems &nbsp;|&nbsp; New York, USA &nbsp;|&nbsp; Sep 2025 – Dec 2025</b></summary>
 
 <br/>
 
