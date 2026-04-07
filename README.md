@@ -112,7 +112,7 @@ class Sheetal:
 <br/>
 
 <details>
-<summary><b>🟢 Tata Consultancy Services &nbsp;|&nbsp; Pune, India &nbsp;|&nbsp; Feb – Apr 2022 &nbsp;|&nbsp; Technical Intern</b></summary>
+<summary><b>🟢 Tata Consultancy Services &nbsp;|&nbsp; Pune, India &nbsp;|&nbsp; Feb 2022 – Apr 2022 &nbsp;|&nbsp; Technical Intern</b></summary>
 
 <br/>
 
